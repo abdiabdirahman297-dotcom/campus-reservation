@@ -18,7 +18,7 @@ public class ReservationServlet extends HttpServlet {
     // Change these to match your MySQL login
     private static final String DB_URL = "jdbc:mysql://localhost:3306/campus_facility_db";
     private static final String DB_USER = "root";
-    private static final String DB_PASS = "Campus#2026Sql";
+    private static final String DB_PASS = "your_password";
 
     // If someone opens the servlet address directly, send them to the form
     @Override
